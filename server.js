@@ -32,7 +32,7 @@ app.use(routes);
 //     });
 // });
 
-console.log (connection);
+// console.log (connection);
 app.listen(PORT, function() {
     console.log("App now listening at localhost:" + PORT);
 });
